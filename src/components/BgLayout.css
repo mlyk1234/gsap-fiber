@@ -1,0 +1,15 @@
+.container {
+    margin-top: 50px;
+}
+
+.bgTitle {
+    font-size: 40px;
+}
+
+.smTitle {
+    line-height: 3em;
+}
+.smTitle:hover {
+    color: white;
+    
+}

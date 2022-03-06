@@ -1,0 +1,20 @@
+.title {
+    position: fixed;
+    left: 50%;
+    bottom: 20px;
+    transform: translate(-50%, -50%);
+    margin: 0 auto;
+}
+
+.title h1 {
+    font-weight: 900;
+    font-size: 8em;
+    margin: 0;
+    color: rgb(255, 255, 255);
+    line-height: 0.6em;
+    letter-spacing: -2px;
+  }
+  
+  .title h1 > span {
+    white-space: pre;
+  }
