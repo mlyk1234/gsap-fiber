@@ -13,12 +13,13 @@
     "react-animated-cursor": "^2.2.0",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
+    "serve": "^13.0.2",
     "styled-components": "^5.3.3",
     "three": "^0.138.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "serve -s build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
